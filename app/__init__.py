@@ -1,0 +1,1 @@
+"""School procurement tracking prototype."""
